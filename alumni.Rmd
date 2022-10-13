@@ -1,0 +1,22 @@
+---
+title: "졸업생 현황(2016~2022)"
+---
+
+|               졸업생               | 이름   | 현재 직장                                  |
+|:----------------------------------:|--------|--------------------------------------------|
+|  ![](images/kim1.jpg){width="85"}  | 김정환 | SH서울주택도시공사                         |
+| ![](images/kwon1.jpg){width="85"}  | 권순호 | 고려대학교 건축사회환경공학부 박사후연구원 |
+|  ![](images/oh1.png){width="86"}   | 오영록 | 성균관대학교 수공학연구실 박사과정         |
+|  ![](images/lee1.jpg){width="85"}  | 이진우 | (주)화신엔지니어링                         |
+|  ![](images/lee2.jpg){width="85"}  | 이문석 | 고려대학교 건축사회환경공학부 박사과정     |
+| ![](images/hwang1.jpg){width="85"} | 황난희 | 수성엔지니어링                             |
+| ![](images/hyeon1.jpg){width="85"} | 현정훈 | KG엔지니어링종합건축사무소                 |
+|  ![](images/ha1.jpg){width="85"}   | 하준혁 | (주)건화 수자원부                          |
+|  ![](images/kim2.jpg){width="85"}  | 김희수 | 하존이앤씨                                 |
+|  ![](images/chu1.jpg){width="85"}  | 추형석 | (주)건화 상하수도부                        |
+|  ![](images/lee3.jpg){width="86"}  | 이민지 | (주)동해종합기술공사                       |
+|                                    |        |                                            |
+
+
+<p align = "center"><b></b> [Hoseo University] </b></p>
+[Hoseo University]: https://www.hoseo.ac.kr/Home/Main.mbz

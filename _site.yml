@@ -1,0 +1,20 @@
+name: "Hoseo University_WRL"
+output_dir: "html"
+navbar:
+  title: "Water Resources Laboratory"
+  right:
+    - text: "INTRODUCTION"
+      href: index.html
+    - text: "PROFESSOR"
+      href: professor.html
+    - text: "ALUMNI"
+      href: alumni.html
+      
+output:
+   html_document:
+    theme: cerulean
+#  prettydoc::html_pretty:
+#    theme: architect
+#    include:
+#      after_body: my_footer.html
+      

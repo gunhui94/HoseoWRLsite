@@ -1,5 +1,5 @@
 name: "Hoseo University_WRL"
-output_dir: "html"
+output_dir: "docs"
 navbar:
   title: "Water Resources Laboratory"
   right:

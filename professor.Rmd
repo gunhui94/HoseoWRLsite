@@ -34,6 +34,3 @@ title: "지도교수 주요프로필"
 | 안전취약계층을 포함한 사회경제적인 요소를 고려한 도시 홍수 위험도 평가 및 복원력 증진 방안 수립 | 한국연구재단 | 2022\~2027 |
 | 기후변화로 인한 대설 피해 추정기술 고도화                                                       |  행정안전부  | 2022\~2025 |
 
-
-<p align = "center"><b></b> [Hoseo University] </b></p>
-[Hoseo University]: https://www.hoseo.ac.kr/Home/Main.mbz

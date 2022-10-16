@@ -17,6 +17,3 @@ title: "졸업생 현황(2016~2022)"
 |  ![](images/lee3.jpg){width="86"}  | 이민지 | (주)동해종합기술공사                       |
 |                                    |        |                                            |
 
-
-<p align = "center"><b></b> [Hoseo University] </b></p>
-[Hoseo University]: https://www.hoseo.ac.kr/Home/Main.mbz

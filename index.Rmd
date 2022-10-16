@@ -17,6 +17,3 @@ title: "수자원연구실 소개"
 +------------------------------------------+--------------------------------------------+
 
 
-<p align = "center"><b></b> [Hoseo University] </b></p>
-[Hoseo University]: https://www.hoseo.ac.kr/Home/Main.mbz
-

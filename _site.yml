@@ -13,8 +13,9 @@ navbar:
 output:
    html_document:
     theme: cerulean
+    
 #  prettydoc::html_pretty:
 #    theme: architect
-#    include:
-#      after_body: my_footer.html
+    include:
+      after_body: my_footer.html
       
